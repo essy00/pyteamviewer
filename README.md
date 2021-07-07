@@ -9,7 +9,7 @@ python3 subscriber_gui.py (for the subscriber)
 
 **Fix**
 ```
-> Add double clicks.
+> Fix double clicks.
 > Make the connection faster.
 ```
 
